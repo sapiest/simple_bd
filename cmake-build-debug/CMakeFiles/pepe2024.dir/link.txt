@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/pepe2024.dir/main.c.o CMakeFiles/pepe2024.dir/coder.c.o CMakeFiles/pepe2024.dir/decoder.c.o CMakeFiles/pepe2024.dir/bits.c.o CMakeFiles/pepe2024.dir/auth.c.o CMakeFiles/pepe2024.dir/save.c.o CMakeFiles/pepe2024.dir/pathfinder.c.o  -o pepe2024 

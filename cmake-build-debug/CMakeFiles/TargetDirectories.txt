@@ -1,0 +1,3 @@
+/home/toxaxab/CLionProjects/arch/pepe2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/toxaxab/CLionProjects/arch/pepe2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/toxaxab/CLionProjects/arch/pepe2024/cmake-build-debug/CMakeFiles/pepe2024.dir
